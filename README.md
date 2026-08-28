@@ -89,7 +89,7 @@ pip install maxgram
 Или из исходников:
 
 ```bash
-git clone https://github.com/<ваш-аккаунт>/maxgram.git
+git clone https://github.com/Petr72-hub/maxgram.git
 cd maxgram
 pip install -e ".[dev]"
 ```
